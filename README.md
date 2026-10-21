@@ -8,3 +8,6 @@ I am a student at ADYPU, currently learning Git and GitHub.
 - Problem solving
 - Basic Git
 
+# Projects
+- git-lab-atharv: This project is created for my introduction
+- git-lab-atharv: This project shows my Skils
